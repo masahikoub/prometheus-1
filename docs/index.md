@@ -11,8 +11,8 @@ The documentation is available alongside all the project documentation at
 
 ## Content
 
-- [Getting started](getting_started.md)
 - [Installation](installation.md)
+- [Getting started](getting_started.md)
 - [Configuration](configuration/configuration.md)
 - [Querying](querying/basics.md)
 - [Storage](storage.md)
